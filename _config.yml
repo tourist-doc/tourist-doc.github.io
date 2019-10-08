@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Tourist
+description: Guides and tutorials for the Tourist documentation system.
+baseurl: ""
+url: ""

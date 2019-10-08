@@ -1,1 +1,7 @@
-# Hello world
+---
+title: Tourist
+---
+
+# Tourist
+
+Yay it works.
