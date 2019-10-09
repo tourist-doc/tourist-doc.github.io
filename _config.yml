@@ -3,3 +3,5 @@ title: Tourist
 description: Guides and tutorials for the Tourist documentation system.
 baseurl: ""
 url: ""
+github:
+  repository_url: https://github.com/tourist-doc/tourist
