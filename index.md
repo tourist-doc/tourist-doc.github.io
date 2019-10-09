@@ -43,7 +43,7 @@ idiomatic ways to create a stop wherever you happen to be in your codebase.
 [DEMO]
 
 ## Keeping Up with Changes
-Code is never static, so Tourist was designed with changes in mind. Tourist requires that any code
+Code isn't static, so Tourist was designed with changes in mind. Tourist requires that any code
 being toured live in one or more [git](https://git-scm.com/) repositories. The tour keeps track of
 the version of the code when it was written, and Tourist provides easy commands for checking out the
 version of the code that the original writer intended to document. This means that while it is
